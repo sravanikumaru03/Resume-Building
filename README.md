@@ -1,2 +1,2 @@
-# Resume-Building
+# Resume-Design
 RESUME WITH INDEPENDENT PAGES
