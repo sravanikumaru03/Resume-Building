@@ -93,7 +93,7 @@
   .contactInfo.language .percent,
   .about.skills .percent {
     height: 6px;
-    background: #081921;
+    background: #494848;
     margin-top: 5px;
     border-radius: 5px;
     overflow: hidden;
@@ -139,12 +139,12 @@
   .about .box .text h4 {
     font-size: 16px;
     font-weight: 500;
-    color: #333;
+    color: #111010;
   }
   
   .about .box .text p {
     font-size: 13px;
-    color: #555;
+    color: #0e0e0e;
     margin-top: 5px;
   }
   
@@ -159,7 +159,7 @@
   }
   
   .about.interest ul li {
-    background: #e0f7fa;
+    background: #f5f2f2;
     padding: 6px 12px;
     border-radius: 20px;
     font-size: 13px;
